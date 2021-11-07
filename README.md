@@ -43,5 +43,16 @@ perulangan while merupakan sebuah kode yang tugasnya berjalan berulang kali samp
   ![Screenshot (453)](https://user-images.githubusercontent.com/93031458/140644997-38bcf723-5b45-40f5-ae7d-56c94be5a66b.png)
 
 5. GAME TEBAK ANGKA
-dibawah ini ada kodingan game diamana
+dibawah ini ada kodingan game :
+  a. dibawah ini menginput nilai dan jika benar nilai yang diinput maka game akan terus berjalan seperti dibawah ini msampai menang
+  ![Screenshot (457)](https://user-images.githubusercontent.com/93031458/140646541-1f4dfed3-990b-47e6-9a17-1dbb5145d07f.png)
+  b. dibawah ini merupakan contoh inputan nilai yang salah maka akan langsung tampil selamat anda menang 
+  ![Screenshot (456)](https://user-images.githubusercontent.com/93031458/140646653-16c8c02f-0bcc-4c70-b236-c3a3bdab61b9.png)
+  c. karena pada nilai trying adalah 0 maka game akan terus meminta untuk memasukkan inputan nilai karena angka 0 mendefinisakn tidak terhingga, maka harus ditambahkan break       untuk game terpaksa berhenti setelah tampil hasil atau outputnya seperti dibawah ini
+  ![Screenshot (459)](https://user-images.githubusercontent.com/93031458/140646896-59f2056c-7e68-407c-b87d-b0468a855b28.png)
+
+6.APLIKASI KALKULATOR
+
+
+
   
